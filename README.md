@@ -11,7 +11,7 @@
 
 You can download the latest signed APK directly from the releases page!
 
-[⬇️ Download Latest Release (v1.0.0)](https://github.com/0xrohitsen/ChargeVoice-AI/releases/latest)
+[⬇️ Download ChargeVoice AI (v1.0.0)](https://github.com/0xrohitsen/ChargeVoice-AI/releases/download/v1.0.0/ChargeVoice-AI-v1.0.0.apk)
 
 > **Note**: Your phone may warn you about installing apps from unknown sources. This is an open-source project and completely safe! Just allow installation from your browser or file manager.
 
