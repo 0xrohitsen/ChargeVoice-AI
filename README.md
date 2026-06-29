@@ -15,6 +15,14 @@ You can download the latest signed APK directly from the releases page!
 
 > **Note**: Your phone may warn you about installing apps from unknown sources. This is an open-source project and completely safe! Just allow installation from your browser or file manager.
 
+## 📱 Screenshots
+
+<div align="center">
+  <img src="screenshots/home.png" width="30%" />
+  <img src="screenshots/history.png" width="30%" />
+  <img src="screenshots/settings.png" width="30%" />
+</div>
+
 ## ✨ Features
 
 - **🗣️ Vocal Milestones**: Automatically speaks when your battery hits specific milestones (e.g., 20%, 50%, 80%, 100%).
